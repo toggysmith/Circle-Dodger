@@ -2,7 +2,7 @@
  
 This is a fun little top-down shooter I created a while ago that I've been updating every so often.
 
-You move around using the WASD keys and have to shoot enemies before they hit you. However, there is an added challenge: you can't just move anyway because you are constantly running out of oxygen and need to keep picking up oxygen tanks which randomly spawn.
+You move around using the WASD keys and have to shoot enemies before they hit you. However, there is an added challenge: you can't just move anywhere because you are constantly running out of oxygen and need to keep picking up oxygen tanks which randomly spawn.
 
 ## Gallery
 
