@@ -4,7 +4,11 @@ This is a fun little top-down shooter I created a while ago that I've been updat
 
 You move around using the WASD keys and have to shoot enemies before they hit you. However, there is an added challenge: you can't just move anywhere because you are constantly running out of oxygen and need to keep picking up oxygen tanks which randomly spawn.
 
+## Play now
+
 There is an online version at https://toggysmith.github.io/Games/CircleDodger2.1/CircleDodger.html.
+
+Navigate to the releases section of this repository on GitHub to find Windows and Mac versions.
 
 ## Gallery
 
