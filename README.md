@@ -8,8 +8,10 @@ There is an online version at https://toggysmith.github.io/Games/CircleDodger2.1
 
 ## Gallery
 
-![](https://github.com/Toggy-Smith/Toggy-Smith/blob/main/ignore/images/Screenshot%202021-04-01%20at%2022.36.37.png)
+A video demo is available at https://youtu.be/QYLfeIpO20w.
 
-![](https://github.com/Toggy-Smith/Toggy-Smith/blob/main/ignore/images/Screenshot%202021-04-01%20at%2022.36.12.png)
+<img width="912" alt="Menu" src="https://user-images.githubusercontent.com/61121030/115446626-68b78980-a20f-11eb-9a86-6ad594abd375.png">
 
-![](https://github.com/Toggy-Smith/Toggy-Smith/blob/main/ignore/images/Screenshot%202021-04-01%20at%2022.36.32.png)
+<img width="912" alt="Gameplay" src="https://user-images.githubusercontent.com/61121030/115446656-710fc480-a20f-11eb-8dcc-ce12940afd93.png">
+
+<img width="912" alt="Game over screen" src="https://user-images.githubusercontent.com/61121030/115446638-6ce3a700-a20f-11eb-855f-314b45d6410a.png">
