@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/music_zapsplat_game_music_action_fast_euro_house_pumping_fun_arcade_rave_024.wav-78bd9e05c19a5015200ec2de48d8c5f4.sample"
+
+[deps]
+
+source_file="res://Assets/Music/music_zapsplat_game_music_action_fast_euro_house_pumping_fun_arcade_rave_024.wav"
+dest_files=[ "res://.import/music_zapsplat_game_music_action_fast_euro_house_pumping_fun_arcade_rave_024.wav-78bd9e05c19a5015200ec2de48d8c5f4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

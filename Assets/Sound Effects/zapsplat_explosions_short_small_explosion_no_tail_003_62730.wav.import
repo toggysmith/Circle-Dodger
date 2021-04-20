@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/zapsplat_explosions_short_small_explosion_no_tail_003_62730.wav-22d829c7dc6a519b3593e8c85c959b0e.sample"
+
+[deps]
+
+source_file="res://Assets/Sound Effects/zapsplat_explosions_short_small_explosion_no_tail_003_62730.wav"
+dest_files=[ "res://.import/zapsplat_explosions_short_small_explosion_no_tail_003_62730.wav-22d829c7dc6a519b3593e8c85c959b0e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

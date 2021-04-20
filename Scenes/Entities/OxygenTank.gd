@@ -5,6 +5,6 @@ func _draw():
 
 func _on_OxygenTank_body_entered(body):
 	if body.is_in_group("player"):
-		body.transfer_oxygen(5)
+		body.transfer_oxygen(20)
 		
 		queue_free()

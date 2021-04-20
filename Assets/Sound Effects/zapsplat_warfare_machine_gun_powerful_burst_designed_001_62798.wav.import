@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/zapsplat_warfare_machine_gun_powerful_burst_designed_001_62798.wav-25a490c3d8887e6c2cb9ccaafd8612ce.sample"
+
+[deps]
+
+source_file="res://Assets/Sound Effects/zapsplat_warfare_machine_gun_powerful_burst_designed_001_62798.wav"
+dest_files=[ "res://.import/zapsplat_warfare_machine_gun_powerful_burst_designed_001_62798.wav-25a490c3d8887e6c2cb9ccaafd8612ce.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

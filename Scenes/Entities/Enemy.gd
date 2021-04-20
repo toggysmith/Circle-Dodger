@@ -12,9 +12,6 @@ export var trauma_amount = 0.0
 
 var velocity = Vector2.ZERO
 
-func _ready():
-	$Area2D/CollisionShape2D.shape.radius = $CollisionShape2D.shape.radius + 3
-
 func get_direction_vector_to_player():
 	var direction_vector = player.position - position
 	
@@ -41,6 +38,15 @@ func _physics_process(delta):
 	
 	velocity = move_and_slide(velocity)
 	
+	var slide_count = get_slide_count()
+	
+	if slide_count:
+		var collision = get_slide_collision(slide_count - 1)
+		var collider = collision.collider
+		
+		if collider.is_in_group("player"):
+			collider.die()
+	
 	update()
 
 func die():
@@ -53,7 +59,3 @@ func die():
 	get_parent().add_child(enemy_death_effect)
 	
 	queue_free()
-
-func _on_Area2D_body_entered(body):
-	if body.is_in_group("player"):
-		body.die()

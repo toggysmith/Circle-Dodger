@@ -9,7 +9,9 @@ func _process(delta):
 	while get_child_count() <= 2:
 		var oxygen_tank = OxygenTank.instance()
 		
-		oxygen_tank.position = Vector2(80 + randi() % (800 - 160), 80 + 64 + (randi() % (600 - 64 - 180)))
+		var min_distance_from_borders = 160
+		
+		oxygen_tank.position = Vector2(rand_range(min_distance_from_borders, 800 - min_distance_from_borders), rand_range(min_distance_from_borders + 64, 600 - min_distance_from_borders - 64))
 		
 		var is_too_close = true
 		
