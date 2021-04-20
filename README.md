@@ -1,4 +1,4 @@
-# Circle-Dodger
+# Circle Dodger
  
 This is a fun little top-down shooter I created a while ago that I've been updating every so often.
 
